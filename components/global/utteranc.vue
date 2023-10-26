@@ -9,7 +9,7 @@ export default {
     script: [
       {
         src: 'https://utteranc.es/client.js',
-        repo: "",
+        repo: "emmanuelmenaCR/Tutorial09_arqui",
         'issue-term': "pathname",
         label: "comments",
         theme: "github-light",
