@@ -1,0 +1,12 @@
+{
+  "scripts": {
+  "build": "nuxt build",
+  "dev": "nuxt dev",
+  "generate": "nuxt generate",
+  "preview": "nuxt preview"
+},
+"devDependencies": {
+  "@nuxt/content": "^1.14.0",
+  "nuxt": "^2.14.0"
+}
+}
